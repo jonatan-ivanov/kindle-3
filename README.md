@@ -51,7 +51,7 @@
 - empty file named `ENABLE_DIAGS` in the Kindle root folder
 - restart
 
-# Screensaver On/Fff
+# Screensaver On/Off
 - press Del (brings up seach bar)
 - `;debugOn`
 - `~disableScreensaver` or `~resumeScreensaver`
